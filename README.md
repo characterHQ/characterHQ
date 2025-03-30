@@ -1,4 +1,5 @@
 ## [Hi there](https://medium.com/@characterHQ) 👋
+![image](https://github.com/user-attachments/assets/cdcdcb70-b1cc-4949-9233-e6bb9841e075)
 
 <!--
 **characterHQ/characterHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
